@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple LoginApp</string>
+    <string name="success_message">You are registered successfully</string>
+    <string name="warning_message">Something went wrong!</string>
+    <string name="email_user_name">Email/User Name</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="forget_password">Forget Password</string>
+</resources>
